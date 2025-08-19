@@ -5,7 +5,8 @@
 🎨 I enjoy blending data with creative visuals  
 🔍 Exploring real-world datasets and building hands-on projects  
 📫 Let’s connect: www.linkedin.com/in/lakshita-arora-4ab386283
-💻 HackerRank: lakshit_arora855
+👨‍💻 HackerRank: https://www.hackerrank.com/profile/lakshit_arora855
+
                
 
 
